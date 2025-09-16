@@ -1,9 +1,9 @@
-# Markdown-sharer
+# mermaid-sharer
 
-Editor de markdown para compartición rápida.
+Editor de mermaid para compartición rápida.
 
 ## Aplicación online
 
 Accede a la aplicación aquí:
 
-- [https://allnulled.github.io/markdown-sharer/index.html](https://allnulled.github.io/markdown-sharer/index.html)
+- [https://allnulled.github.io/mermaid-sharer/index.html](https://allnulled.github.io/mermaid-sharer/index.html)
