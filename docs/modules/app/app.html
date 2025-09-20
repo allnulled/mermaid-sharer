@@ -21,7 +21,12 @@
         <div class="panel_de_edicion"
             v-show="selectedPanel === 'edicion'">
             <div class="pad_1">
-                <textarea class="width_100" style="height: 250px;" v-model="source" spellcheck="false" ref="editorDeTexto"></textarea>
+                <textarea
+                    class="editor_en_cuestion width_100"
+                    style="min-height: 250px;"
+                    v-model="source"
+                    spellcheck="false"
+                    ref="editorDeTexto"></textarea>
             </div>
         </div>
         <div class="panel_de_visualizacion"
